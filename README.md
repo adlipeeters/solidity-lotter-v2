@@ -1,0 +1,1 @@
+# solidity-lotter-v2
